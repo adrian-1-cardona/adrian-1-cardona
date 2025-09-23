@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello , I'm Adrian<br>📚 I just transferred to Cal Poly Slo from community college!<br>🔭 I’m currently studying computer science at the California Polytechnic University, San Luis Obispo<br>🌱 I’m currently learning Data Structures and Algorithms and grinding the Leetcode 75!<br>🗺️ I'm also a member of ColorStack, feel free to ask me any questions!<br>
+👋 Hello , I'm Adrian<br>📚 I just transferred to Cal Poly SLO from community college!<br>🔭 I’m currently studying computer science at the California Polytechnic University, San Luis Obispo<br>🌱 I’m currently learning Data Structures and Algorithms and grinding the Leetcode 75!<br>🗺️ I'm also a member of ColorStack, feel free to ask me any questions!<br>
 
 
 ## 🌐 Socials:
