@@ -1,61 +1,24 @@
-# 💫 About Me
+<h1 align="center">Hello, I'm Adrian</h1>
+<h3 align="center">I just transferred to Cal Poly SLO from community college!I’m currently learning Data Structures and Algorithms and grinding the Leetcode 75!I'm also a member of ColorStack, feel free to ask me any questions!</h3>
 
-👋 Hello, I'm Adrian! Welcome to my GitHub profile!
+- 🔭 I’m currently working on [My Personal Portfolio](https://adrian-cardona.vercel.app)
 
-🎓 I recently transferred to **California Polytechnic State University, San Luis Obispo (Cal Poly SLO)** where I'm pursuing my Bachelor's degree in Computer Science. Before that, I earned my **Associate of Arts (AA) in Computer Science from Los Angeles Harbor College** with a **GPA of 3.7/4.0**.
+- 🌱 I’m currently learning **Database Management Systems in SQL, and Systems Programming in C**
 
-🔭 Currently, I'm diving deep into **Data Structures and Algorithms** and actively working through the **LeetCode 75** problem set to sharpen my problem-solving skills and prepare for technical interviews.
+- 👯 I’m looking to collaborate on **Anyone in the tech industry(IoT,Software Engineering, Data Engineering)**
 
-🌱 My technical interests span across:
-- **Machine Learning & Data Science**: Building personal ML projects and exploring predictive models
-- **Formula 1 Analytics**: Developing data-driven insights and visualizations for F1 race statistics
-- **Web Development**: Creating modern, responsive applications with Next.js and TailwindCSS
-- **Automation**: Implementing GitHub Actions workflows and CI/CD pipelines
+- 🗣️Im involved in **ColorStack**
 
-🗺️ I'm proud to be a member of **ColorStack**, a community empowering Black and Latinx students in tech. Feel free to reach out with any questions about the organization, computer science, or just to connect!
+- 👨‍💻 All of my projects are available at [https://adrian-cardona.vercel.app](https://adrian-cardona.vercel.app)
 
-🏎️ When I'm not coding, you'll find me analyzing F1 race data, building machine learning models, or working on open-source projects. I'm passionate about using technology to solve real-world problems and making data-driven decisions.
+- 💬 Ask me about **ColorStack, Leetcode, or transferring from community college**
 
-## 🚀 Featured Projects
+- 📫 How to reach me **adcardon@calpoly.edu**
 
-### Formula 1 Analytics
-Developed comprehensive F1 data analysis projects utilizing Python and data visualization libraries to extract insights from race statistics, driver performance, and team strategies. Projects include predictive modeling for race outcomes and interactive dashboards.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-cardona/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-cardona/" height="30" width="40" /></a>
+</p>
 
-### Java Programming Assignments
-Implemented various data structures and algorithms in Java as part of my coursework, including custom implementations of linked lists, trees, hash tables, and sorting algorithms. These projects demonstrate strong fundamentals in object-oriented programming and algorithm optimization.
-
-### Machine Learning Experiments
-Personal projects exploring supervised and unsupervised learning techniques using Python, NumPy, and scikit-learn. Focus areas include classification problems, regression analysis, and feature engineering.
-
-### GitHub Workflow Automation
-Experience with GitHub Actions for CI/CD pipelines, automated testing, and deployment workflows. Implemented custom workflows for code quality checks and automated documentation generation.
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-cardona/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adcardon@calpoly.edu)
-
-## 💻 Tech Stack
-
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend & Styling:**
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**Frameworks & Platforms:**
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
-**Data Science & ML:**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-
-**Tools & Other:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adrian-1-cardona&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=adrian-1-cardona&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-1-cardona&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=adrian-1-cardona&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
