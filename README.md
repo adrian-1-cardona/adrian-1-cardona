@@ -18,10 +18,8 @@ I'm always excited to collaborate with fellow tech enthusiasts and professionals
 - ColorStack community initiatives
 
 **Feel free to reach out!**
-
-📧 [cardona.adrian.1029@gmail.com](mailto:cardona.adrian.1029@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/adrian-cardona/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrian-cardona/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cardona.adrian.1029@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrian-cardona/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cardona.adrian.1029@gmail.com) 
 
 ## 💻 Tech Stack
 
