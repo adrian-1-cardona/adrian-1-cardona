@@ -7,7 +7,7 @@ I'm a Computer Science student at Cal Poly passionate about web development, dat
 - 💼 **Web Development Intern** at Cal Poly's Math and Science Department, modernizing their online presence
 - 🌱 Currently diving deep into **Systems Programming** and **Database Management Systems**
 - 🎯 Exploring **Data Structures & Algorithms**, **Data Management**, and **Data Administration**
-- 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) — empowering the next generation of Black and Latinx tech leaders
+- 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders
 
 ## 🤝 Let's Connect
 
