@@ -9,7 +9,7 @@ I'm a Computer Science student at Cal Poly passionate about web development, dat
 - 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders.
 - ⚡️ Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
 
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always excited to collaborate with fellow tech enthusiasts and professionals! Whether you're interested in:
 - Web development projects
