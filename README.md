@@ -1,15 +1,15 @@
-# Hi there, I'm Adrian! 👋
+# Hi, I'm Adrian! 
 
 I'm a Computer Science student at Cal Poly passionate about web development, databases, and building meaningful tech solutions.
 
 ## 🚀 What I'm Up To
+💼 Web Development Intern at Cal Poly's Math and Science Department, working on updating their website.
+🌱 Currently diving deep into Systems Programming and Database Management Systems classes at Cal Poly Slo.
+🎯 On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
+🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders.
+⚡️ Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
 
-- 💼 **Web Development Intern** at Cal Poly's Math and Science Department, modernizing their online presence
-- 🌱 Currently diving deep into **Systems Programming** and **Database Management Systems**
-- 🎯 Exploring **Data Structures & Algorithms**, **Data Management**, and **Data Administration**
-- 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders
-
-## 🤝 Let's Connect
+##🤝 Let's Connect
 
 I'm always excited to collaborate with fellow tech enthusiasts and professionals! Whether you're interested in:
 - Web development projects
