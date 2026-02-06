@@ -35,6 +35,3 @@ I'm a Computer Science student at Cal Poly passionate about web development, dat
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-💡 *Open to opportunities and collaborations in web development, database systems, and full-stack engineering!*
