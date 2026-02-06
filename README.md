@@ -3,11 +3,11 @@
 I'm a Computer Science student at Cal Poly passionate about web development, databases, and building meaningful tech solutions.
 
 ## 🚀 What I'm Up To
-💼 Web Development Intern at Cal Poly's Math and Science Department, working on updating their website.
-🌱 Currently diving deep into Systems Programming and Database Management Systems classes at Cal Poly Slo.
-🎯 On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
-🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders.
-⚡️ Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
+- 🧑‍💻 Web Development Intern at Cal Poly's Math and Science Department, working on updating their website.
+- 📚 Currently diving deep into Systems Programming and Database Management Systems classes at Cal Poly Slo.
+- 🎯 On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
+- 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders.
+- ⚡️ Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
 
 ##🤝 Let's Connect
 
