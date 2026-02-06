@@ -3,21 +3,13 @@
 I'm a Computer Science student at Cal Poly passionate about web development, databases, and building meaningful tech solutions.
 
 ## 🚀 What I'm Up To
-- 🧑‍💻 Web Development Intern at Cal Poly's Math and Science Department, working on updating their website.
-- 📚 Currently diving deep into Systems Programming and Database Management Systems classes at Cal Poly Slo.
+- 🧑‍💻 I'm currently working on updating the Math and Science's website at Cal Poly as a Web Development Intern.
+- 📚 I'm taking Systems Programming (where I'm learning how hardware and software interact), and learning how to build and scale databases in my databases class.
 - 🎯 On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
-- 🤝 Active member of [**ColorStack**](https://www.colorstack.org/) empowering the next generation of Black and Latinx tech leaders.
+- 🤝 Active member of ColorStack, which is an organization that sets to empowering the next generation of African American and Hispanic/Latino students through networking events.
 - ⚡️ Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
 
 ## 🤝 Let's Connect
-
-I'm always excited to collaborate with fellow tech enthusiasts and professionals! Whether you're interested in:
-- Web development projects
-- Database architecture discussions
-- Career growth in tech
-- ColorStack community initiatives
-
-## 🌎 Feel free to reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrian-cardona/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cardona.adrian.1029@gmail.com) 
 
