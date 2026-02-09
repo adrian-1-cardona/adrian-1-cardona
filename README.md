@@ -11,7 +11,7 @@ I'm a Computer Science student at Cal Poly passionate about web development, dat
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-cardona/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cardona.adrian.1029@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cardona.adrian.1029@gmail.com) 
 
 ## 💻 Tech Stack
 
