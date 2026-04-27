@@ -1,8 +1,8 @@
-# Hello, I'm Adrian!
+# Hello, I'm Adrian
 
 I'm a Computer Science student at Cal Poly San Luis Obispo. I'm currently exploring web development,and I'm super interested in databases. 
 
-## What I'm Up To
+# What I'm Up To
 -  I'm currently working on updating the Math and Science's website at Cal Poly as a Web Development Intern.
 -  I'm taking Systems Programming (where I'm learning how hardware and software interact), and learning how to build and scale databases in my databases class.
 -  On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
