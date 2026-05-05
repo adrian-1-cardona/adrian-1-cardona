@@ -4,7 +4,7 @@ I'm a Computer Science student at Cal Poly San Luis Obispo. I'm currently explor
 
 # What I'm Up To
 -  I'm currently working on updating the Math and Science's website at Cal Poly as a Web Development Intern.
--  I'm taking Systems Programming (where I'm learning how hardware and software interact), and learning how to build and scale databases in my databases class.
+-  I'm taking Software Engineering, algorithms, and Computer Security .
 -  On my own I'm exploring Data Structures & Algorithms, Data Management, and Data Administration. Through my own personal research/ work or through a professors office hours.
 -  Active member of ColorStack, which is an organization that sets to empowering the next generation of African American and Hispanic/Latino students through networking events.
 -  Fun Fact: I like to work out and just bought an arduino kit and I'm looking to learn/ build/ break some arduino motor projects because I think it's cool.  
